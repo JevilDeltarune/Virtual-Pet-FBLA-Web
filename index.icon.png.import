@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c80nl21f1etp8"
-path="res://.godot/imported/index.icon.png-0000544ca91991b459771c9ba0303eb4.ctex"
+uid="uid://dyljht8pxa2c4"
+path="res://.godot/imported/index.icon.png-9b5818941cd9a6514ebe93c689b97f53.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Virtual Pet FBLA Web/index.icon.png"
-dest_files=["res://.godot/imported/index.icon.png-0000544ca91991b459771c9ba0303eb4.ctex"]
+source_file="res://Export/index.icon.png"
+dest_files=["res://.godot/imported/index.icon.png-9b5818941cd9a6514ebe93c689b97f53.ctex"]
 
 [params]
 
